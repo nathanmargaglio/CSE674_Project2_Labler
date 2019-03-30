@@ -1,0 +1,2 @@
+ipyevents==0.4.1
+pandas==0.23.0
